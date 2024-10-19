@@ -16,9 +16,9 @@ Incorporando informações do documento disponibilizado, aqui está a versão mo
 
 **Começando**
 
-Materiais e Recursos para te ajudar a começar!
+Materiais e Recursos para ajudar a começar no mundo R!
 
-Este tutorial foi gerado como um projeto em R, o que significa que contém todos os dados de entrada, scripts e saídas em um único local. Usar projetos em R é uma prática recomendada, e mais importante, é uma prática reprodutível. Todos os arquivos de script (exceto os R Notebooks) possuem caminhos automaticamente configurados em relação ao diretório do projeto R.
+Este tutorial foi gerado como um projeto em R, o que significa que contém todos os dados de entrada, scripts e saídas em um único local. O uso de projetos em R é uma prática recomendada, e mais importante, é uma prática reprodutível. Todos os arquivos de script (exceto os R Notebooks) possuem caminhos automaticamente configurados em relação ao diretório do projeto R.
 
 Clone este repositório e gere seus R Notebooks ou Scripts R para cada módulo dentro do diretório do projeto R existente. Você poderá usar caminhos relativos ao referenciar objetos de dados salvos fornecidos com o pacote (os caminhos do Notebook serão relativos ao local onde o notebook estiver salvo). Clique para aprender mais sobre os benefícios, criação e manutenção de um projeto em R.
 
@@ -37,19 +37,19 @@ Encontramos dois ótimos tutoriais de R. Existem MUITOS disponíveis, por isso o
 
 **Leitura Sugerida**
 
-Um excelente texto complementar para aprender R, que recomendamos, é o livro *R in Action*. Leituras sugeridas serão fornecidas para cada tópico.
+Um excelente texto complementar para aprender R é o livro *R in Action* (https://www.manning.com/books/r-in-action). Leituras sugeridas serão fornecidas para cada tópico.
 
-Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R. Dois que gostamos são: 
-* *YaRrr! The Pirate’s Guide to R*
-* *Hands-On Programming with R*
+Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R. Duas opções são indicadas abaixo: 
+* *YaRrr! The Pirate’s Guide to R* (https://bookdown.org/ndphillips/YaRrr/)
+* *Hands-On Programming with R* (https://rstudio-education.github.io/hopr/)
 
 **Objetivos de Aprendizagem**
 * Praticar a arte da reprodutibilidade utilizando scripts em R.
 * Familiarizar-se com o ambiente de trabalho no RStudio.
-* Aprender a conduzir estatísticas descritivas básicas no R.
+* Aprender a conduzir análises básicas no R.
 * Aprender a manipular arquivos no R.
-* Realizar testes estatísticos básicos no R.
-* Utilizar construtos de programação no R (ex.: loops, condicionais etc.).
+* Analisar diferentes exemplos de dados biológicos.
+* Gerar gráficos e outros tipos de representações de dados biológicos.
 * Usar o R via linha de comando.
 
 **Tópicos**
