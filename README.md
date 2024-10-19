@@ -22,7 +22,7 @@ Este tutorial foi gerado como um projeto em R, o que significa que contém todos
 
 Clone este repositório e gere seus R Notebooks ou Scripts R para cada módulo dentro do diretório do projeto R existente. Você poderá usar caminhos relativos ao referenciar objetos de dados salvos fornecidos com o pacote (os caminhos do Notebook serão relativos ao local onde o notebook estiver salvo). Clique para aprender mais sobre os benefícios, criação e manutenção de um projeto em R.
 
-**Cheatsheet de R** – Imprima isto e mantenha em seu espaço de trabalho enquanto aprende. Mais cheatsheets avançados podem ser encontrados à medida que você progride.
+**[R cheat sheet](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima isto e mantenha em seu espaço de trabalho enquanto aprende. Mais cheatsheets avançados podem ser encontrados à medida que você progride.
 
 Encontramos dois ótimos tutoriais de R. Existem MUITOS disponíveis, por isso oferecemos duas opções – uma que você pode baixar e usar no RStudio no seu computador ou uma baseada na web. QUALQUER UMA deve ser suficiente para você começar com o básico.
 
