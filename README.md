@@ -20,7 +20,7 @@ Materiais e Recursos para ajudar a começar no mundo R!
 
 Este tutorial foi gerado como um projeto em R, o que significa que contém todos os dados de entrada, scripts e saídas em um único local. O uso de projetos em R é uma prática recomendada, e mais importante, é uma prática reprodutível. Todos os arquivos de script (exceto os R Notebooks) possuem caminhos automaticamente configurados em relação ao diretório do projeto R.
 
-Clone este repositório e gere seus R Notebooks ou Scripts R para cada módulo dentro do diretório do projeto R existente. Você poderá usar caminhos relativos ao referenciar objetos de dados salvos fornecidos com o pacote (os caminhos do Notebook serão relativos ao local onde o notebook estiver salvo). Clique para aprender mais sobre os benefícios, criação e manutenção de um projeto em R.
+Clone este repositório e gere os seus Scripts R para cada módulo dentro do diretório do projeto R existente. Se preferir, salve os seus RScripts na pasta do Google Drive para a disciplina, cujas permissões serão fornecidas durante as aulas. 
 
 **[R cheat sheet](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima isto e mantenha em seu espaço de trabalho enquanto aprende. Mais cheatsheets avançados podem ser encontrados à medida que você progride.
 
@@ -50,29 +50,22 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 * Aprender a manipular arquivos no R.
 * Analisar diferentes exemplos de dados biológicos.
 * Gerar gráficos e outros tipos de representações de dados biológicos.
-* Usar o R via linha de comando.
 
 **Tópicos**
-1. **Módulo 1:** Começando no Ambiente R e RStudio
-   * **Atividade #1:** Plotagem de Cobertura ao Longo de um Cromossomo
-     - Este exercício pode ser feito após completar um tutorial básico de R (como um dos mencionados acima) e assistir ao vídeo introdutório. Não é necessária experiência prévia!
+1. **Módulo 1:** Introdução à disciplina; Histórico do R e a sua importância para a análise de dados biológicos
+   
+2. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
+   * **Atividade #1:**  
 
-2. **Módulo 2:** Estatísticas Descritivas Básicas em R
+4. **Módulo 3:** Boas práticas de programação em R
 
-3. **Módulo 3:** Manipulação de Dados no R
-
-4. **Módulo 4:** Conceitos Estatísticos Avançados em R
+5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
    * **Atividade #2:** Prática de Gráficos no R
 
-5. **Módulo 5:** Gráficos Avançados no R
+6. **Módulo 5:** Gráficos Avançados no R
 
-6. **Módulo 6:** Usando o R na Linha de Comando
+7. **Módulo 6:** Usando o R na Linha de Comando
 
-7. **Módulo 7:** Programação em R
+8. **Módulo 7:** Programação em R
    * **Atividade #3:** Usando R em um Supercomputador – Construção de um Script de Pipeline
 
-Recursos adicionais podem ser encontrados ao final deste minicurso. Esta página também inclui links para baixar dados de prática para continuar seu aprendizado em R. 
-
---- 
-
-Isso adapta e traduz o conteúdo com base no contexto do curso listado no documento【5†source】.
