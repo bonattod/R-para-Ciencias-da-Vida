@@ -1,1 +1,1 @@
-
+Arquivo contendo RScripts para a disciplina "R para Ciências da Vida"
