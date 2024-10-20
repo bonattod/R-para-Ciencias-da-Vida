@@ -1,1 +1,1 @@
-
+Arquivo contendo os exercíos propostos para a disciplina "R para Ciências da Vida".
