@@ -49,7 +49,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 **Tópicos**
 1. **Módulo 1:** Introdução à disciplina; Histórico do R e a sua importância para a análise de dados biológicos
-   * **Tutorial #1:** [Comandos básicos](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/RScripts/Comandos_b%C3%A1sicos_1.R)
+   * **Tutorial #1:** [Comandos básicos](RScripts/Tutorial_1.R)
    
 3. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
    * **Tutorial #2:**
@@ -58,18 +58,20 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 4. **Módulo 3:** Boas práticas de programação em R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
-   * **Atividade #2:** Prática de Gráficos no R
+   * **Tutorial 4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
+   * **Atividade #2:** 
 
 6. **Módulo 5:** Objetos do R
-   * **Tutorial #5:**
+   * **Tutorial #5:** [Objetos do R](RScripts/Tutorial_5.R)
    * **Atividade #1:**
 
 8. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos
+   * **Tutorial #6:** [Mineração e prospecção de dados biológicos](RScripts/Tutorial_6.R)
 
-9. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
+10. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
    * **Atividade #3:** Usando R em um Supercomputador – Construção de um Script de Pipeline
 
-10. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
+11. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
 
-11. **Módulo 9** Interfaces com outras linguagens e plataformas
+12. **Módulo 9** Interfaces com outras linguagens e plataformas
 
