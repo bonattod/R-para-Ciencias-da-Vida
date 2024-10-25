@@ -16,11 +16,11 @@ Materiais e Recursos para ajudar a começar no mundo R!
 
 Este tutorial foi gerado como um projeto em R, o que significa que contém todos os dados de entrada, scripts e saídas em um único local. O uso de projetos em R é uma prática recomendada, e mais importante, é uma prática reprodutível. Todos os arquivos de script (exceto os R Notebooks) possuem caminhos automaticamente configurados em relação ao diretório do projeto R.
 
-Clone este repositório e gere os seus Scripts R para cada módulo dentro do diretório do projeto R existente. Se preferir, salve os seus RScripts na pasta do Google Drive para a disciplina, cujas permissões serão fornecidas durante as aulas. 
+Clone este repositório e gere os seus Scripts R (ou **RScripts**, como são comumente chamados) para cada módulo dentro do diretório do projeto R existente. Se preferir, salve os seus RScripts na pasta do Google Drive para a disciplina, cujas permissões serão fornecidas durante as aulas. 
 
 **[R cheat sheet](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima isto e mantenha em seu espaço de trabalho enquanto aprende. Mais cheatsheets avançados podem ser encontrados à medida que você progride.
 
-Encontramos dois ótimos tutoriais de R. Existem MUITOS disponíveis, por isso oferecemos duas opções – uma que você pode baixar e usar no RStudio no seu computador ou uma baseada na web. QUALQUER UMA deve ser suficiente para você começar com o básico.
+Dois ótimos tutoriais de R estão indicados abaixo. Existem MUITOS disponíveis, por isso ofereço duas opções – uma que você pode baixar e usar no RStudio no seu computador ou uma baseada na web. QUALQUER UMA deve ser suficiente para você começar com o básico.
 
 **Tutoriais de R**:
 
@@ -29,7 +29,7 @@ Encontramos dois ótimos tutoriais de R. Existem MUITOS disponíveis, por isso o
    2. Execute `swirl::install_course("The R Programming Environment")` no console do R.
    3. Inicie o swirl com o comando `swirl()`.
 
-* Baseado na web: **[Tinystats]**(https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
+* Baseado na web: **[Tinystats](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)**
 
 **Leitura Sugerida**
 
@@ -58,7 +58,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 4. **Módulo 3:** Boas práticas de programação em R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
-   * **Tutorial 4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
+   * **Tutorial #4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
    * **Atividade #2:** 
 
 6. **Módulo 5:** Objetos do R
