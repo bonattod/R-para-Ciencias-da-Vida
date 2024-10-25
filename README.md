@@ -10,10 +10,6 @@ Não há a necessidade de conhecimentos prévios em R ou qualquer outra linguage
 
 A disciplina tem como objetivo central proporcionar uma compreensão abrangente da programação em R, bem como as suas ferramentas e aplicações focadas para as Ciências da Vida. Para tanto, a disciplina busca familiarizar os discentes com a linguagem e a programação R para dados biológicos. Nesse sentido, o objetivo central da disciplina será alcançado: (I) pela compreensão dos diferentes componentes da programação em R, como operadores e funções, para análise de dados biológicos, (ii) pela escolha da forma de entrada de dados biológicos uni e multidimensionais, (iii) pelo processamento dos dados biológicos e uso de pacotes específicos para a descoberta de conhecimento biológico, (iv) pelo emprego específico de pacotes gráficos para a representação visual dos resultados gerados e (v) pelo emprego de boas práticas de programação.
 
-Incorporando informações do documento disponibilizado, aqui está a versão modificada e traduzida:
-
----
-
 **Começando**
 
 Materiais e Recursos para ajudar a começar no mundo R!
@@ -33,11 +29,11 @@ Encontramos dois ótimos tutoriais de R. Existem MUITOS disponíveis, por isso o
    2. Execute `swirl::install_course("The R Programming Environment")` no console do R.
    3. Inicie o swirl com o comando `swirl()`.
 
-* Baseado na web: Tinystats
+* Baseado na web: **[Tinystats]**(https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 
 **Leitura Sugerida**
 
-Um excelente texto complementar para aprender R é o livro *R in Action* (https://www.manning.com/books/r-in-action). Leituras sugeridas serão fornecidas para cada tópico.
+Um excelente texto complementar para aprender R é o livro *R in Action* (https://www.manning.com/books/r-in-action). Leituras sugeridas poderão ser fornecidas para cada tópico.
 
 Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R. Duas opções são indicadas abaixo: 
 * *YaRrr! The Pirate’s Guide to R* (https://bookdown.org/ndphillips/YaRrr/)
@@ -53,19 +49,27 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 **Tópicos**
 1. **Módulo 1:** Introdução à disciplina; Histórico do R e a sua importância para a análise de dados biológicos
+   * **Tutorial #1:** [Comandos básicos](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/RScripts/Comandos_b%C3%A1sicos_1.R)
    
-2. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
-   * **Atividade #1:**  
+3. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
+   * **Tutorial #2:**
+   * **Atividade #1:**   
 
 4. **Módulo 3:** Boas práticas de programação em R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
    * **Atividade #2:** Prática de Gráficos no R
 
-6. **Módulo 5:** Gráficos Avançados no R
+6. **Módulo 5:** Objetos do R
+   * **Tutorial #5:**
+   * **Atividade #1:**
 
-7. **Módulo 6:** Usando o R na Linha de Comando
+8. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos
 
-8. **Módulo 7:** Programação em R
+9. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
    * **Atividade #3:** Usando R em um Supercomputador – Construção de um Script de Pipeline
+
+10. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
+
+11. **Módulo 9** Interfaces com outras linguagens e plataformas
 
