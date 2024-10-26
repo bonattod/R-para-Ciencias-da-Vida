@@ -63,15 +63,22 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 6. **Módulo 5:** Objetos do R
    * **Tutorial #5:** [Objetos do R](RScripts/Tutorial_5.R)
-   * **Atividade #1:**
+   * **Atividade #3:**
 
 8. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos
    * **Tutorial #6:** [Mineração e prospecção de dados biológicos](RScripts/Tutorial_6.R)
+   * **Atividade #4:**
 
 10. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
-   * **Atividade #3:** Usando R em um Supercomputador – Construção de um Script de Pipeline
+   * **Tutorial #7A:** [Manipulação de dataframes Biológicos com Comandos Básicos do R](RScripts/Tutorial_7A.R)
+   * **Tutorial #7B:** [Manipulação de dataframes Biológicos com tidyverse](RScripts/Tutorial_7B.R)
+   * **Tutorial #7C:** [Manipulação de Dados Biológicos em R com tidyverse](RScripts/Tutorial_7C.R)
+   * **Atividade #5:**
 
 11. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
+    * **Tutorial #8A:** [Uso das funções nativas do R para a visualização de dados](RScripts/Tutorial_8A.R)
+    * **Tutorial #8B:**
+    * **Atividade #6:**
 
-12. **Módulo 9** Interfaces com outras linguagens e plataformas
+13. **Módulo 9** Interfaces com outras linguagens e plataformas
 
