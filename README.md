@@ -59,26 +59,27 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
    * **Tutorial #4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
-   * **Atividade #2:** 
+   * **Atividade #3:** [Praticando a instalação de pacotes no R](Exercicios/Exercicio_1_R.pdf
 
 6. **Módulo 5:** Objetos do R
    * **Tutorial #5:** [Objetos do R](RScripts/Tutorial_5.R)
-   * **Atividade #3:**
+   * **Atividade #4:**
 
 8. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos
    * **Tutorial #6:** [Mineração e prospecção de dados biológicos](RScripts/Tutorial_6.R)
-   * **Atividade #4:**
+   * **Atividade #5:**
 
 10. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
    * **Tutorial #7A:** [Manipulação de dataframes biológicos com comandos básicos do R](RScripts/Tutorial_7A.R)
    * **Tutorial #7B:** [Manipulação de dataframes biológicos com tidyverse](RScripts/Tutorial_7B.R)
    * **Tutorial #7C:** [Manipulação de dados biológicos em R com tidyverse](RScripts/Tutorial_7C.R)
-   * **Atividade #5:**
+   * **Atividade #6:**
 
 11. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
     * **Tutorial #8A:** [Uso das funções nativas do R para a visualização de dados](RScripts/Tutorial_8A.R)
     * **Tutorial #8B:**
-    * **Atividade #6:**
+    * **Atividade #7A:**
+    * **Atividade #7B:**
 
 13. **Módulo 9** Interfaces com outras linguagens e plataformas
 
