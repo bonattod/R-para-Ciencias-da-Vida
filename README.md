@@ -70,9 +70,9 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
    * **Atividade #4:**
 
 10. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
-   * **Tutorial #7A:** [Manipulação de dataframes Biológicos com Comandos Básicos do R](RScripts/Tutorial_7A.R)
-   * **Tutorial #7B:** [Manipulação de dataframes Biológicos com tidyverse](RScripts/Tutorial_7B.R)
-   * **Tutorial #7C:** [Manipulação de Dados Biológicos em R com tidyverse](RScripts/Tutorial_7C.R)
+   * **Tutorial #7A:** [Manipulação de dataframes biológicos com comandos básicos do R](RScripts/Tutorial_7A.R)
+   * **Tutorial #7B:** [Manipulação de dataframes biológicos com tidyverse](RScripts/Tutorial_7B.R)
+   * **Tutorial #7C:** [Manipulação de dados biológicos em R com tidyverse](RScripts/Tutorial_7C.R)
    * **Atividade #5:**
 
 11. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
