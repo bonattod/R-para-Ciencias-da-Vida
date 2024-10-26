@@ -53,33 +53,34 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
    
 3. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
    * **Tutorial #2:** [Interfaces para o R - GUI e IDEs](RScripts/Tutorial_2.pdf)
-   * **Atividade #1:** [Uso de diferentes IDEs para o R](Exercicios/Exercício_2_R.pdf)  
+   * **Exercício #2:** [Uso de diferentes IDEs para o R](Exercicios/Exercício_2_R.pdf)  
 
 4. **Módulo 3:** Boas práticas de programação em R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos
    * **Tutorial #4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
-   * **Atividade #3:** [Praticando a instalação de pacotes no R](Exercicios/Exercicio_1_R.pdf
+   * **Exercício #4:** [Praticando a instalação de pacotes no R](Exercicios/Exercício_4_R.pdf)
 
 6. **Módulo 5:** Objetos do R
    * **Tutorial #5:** [Objetos do R](RScripts/Tutorial_5.R)
-   * **Atividade #4:**
+   * **Exercício #5:**[Vetores, matrizes e dataframes](Exercicios/Exercício_5_R.pdf)
 
 8. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos
    * **Tutorial #6:** [Mineração e prospecção de dados biológicos](RScripts/Tutorial_6.R)
-   * **Atividade #5:**
+   * **Exercício #6:**
 
 10. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2
    * **Tutorial #7A:** [Manipulação de dataframes biológicos com comandos básicos do R](RScripts/Tutorial_7A.R)
    * **Tutorial #7B:** [Manipulação de dataframes biológicos com tidyverse](RScripts/Tutorial_7B.R)
    * **Tutorial #7C:** [Manipulação de dados biológicos em R com tidyverse](RScripts/Tutorial_7C.R)
-   * **Atividade #6:**
+   * **Exercício #7A:**
+   * **Exercício #7B:**
 
 11. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
     * **Tutorial #8A:** [Uso das funções nativas do R para a visualização de dados](RScripts/Tutorial_8A.R)
     * **Tutorial #8B:**
-    * **Atividade #7A:**
-    * **Atividade #7B:**
+    * **Atividade #8A:** [Uso de funções nativas do R para a visualização de dados biológicos](Exercicios/Exercício_8A_R.pdf)
+    * **Atividade #8B:** [Uso do ggplot2 para a visualização de dados biológicos](Exercicios/Exercício_8B_R.pdf)
 
 13. **Módulo 9** Interfaces com outras linguagens e plataformas
 
