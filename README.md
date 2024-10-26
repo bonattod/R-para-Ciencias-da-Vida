@@ -53,7 +53,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
    
 3. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
    * **Tutorial #2:** [Interfaces para o R - GUI e IDEs](RScripts/Tutorial_2.pdf)
-   * **Atividade #1:**   
+   * **Atividade #1:** [Uso de diferentes IDEs para o R](Exercicios/Exercício_2_R.pdf)  
 
 4. **Módulo 3:** Boas práticas de programação em R
 
