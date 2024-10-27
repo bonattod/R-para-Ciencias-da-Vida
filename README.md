@@ -77,7 +77,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 8. **Módulo 8:** Gráficos e visualização de dados - partes 1 e 2
    * **Tutorial #8A:** [Uso das funções nativas do R para a visualização de dados](RScripts/Tutorial_8A.R)
-   * **Tutorial #8B:**
+   * **Tutorial #8B:** [Uso das bibliotecas ggplot2 e ggstatsplot para a visualização de dados](RScripts/Tutorial_8B.R)
    * **Atividade #8A:** [Uso de funções nativas do R para a visualização de dados biológicos](Exercicios/Exercício_8A_R.pdf)
    * **Atividade #8B:** [Uso do ggplot2 para a visualização de dados biológicos](Exercicios/Exercício_8B_R.pdf)
 
