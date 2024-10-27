@@ -50,6 +50,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 **Tópicos**
 1. **Módulo 1:** Introdução à disciplina; Histórico do R e a sua importância para a análise de dados biológicos
    * **Tutorial #1:** [Comandos básicos](RScripts/Tutorial_1.R)
+   * **Exercício #1** [Praticando comandos básicos no R](Exercicios/Exercício_1_R.pdf)
    
 2. **Módulo 2:** Procedimentos iniciais com o R: interfaces e atualizações
    * **Tutorial #2:** [Interfaces para o R - GUI e IDEs](RScripts/Tutorial_2.pdf)
