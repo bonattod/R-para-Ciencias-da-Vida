@@ -36,7 +36,7 @@ Dois ótimos tutoriais de R estão indicados abaixo. Existem MUITOS disponíveis
 
 * Baseado na web: **[Tinystats](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)**
 
-**Leituras Sugeridas**
+**Leitura Sugerida**
 
 Um excelente texto complementar para aprender R é o livro *R in Action* (https://www.manning.com/books/r-in-action). Leituras sugeridas poderão ser fornecidas para cada tópico.
 
