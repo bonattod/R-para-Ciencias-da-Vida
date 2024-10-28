@@ -22,7 +22,7 @@ Clone este repositório e gere os seus Scripts R (ou **RScripts**, como são com
 
 **[R *cheat sheet*](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima este *cheat sheet* e mantenha em seu espaço de trabalho enquanto aprende. Mais *cheat sheets* avançados podem ser encontrados à medida que você progride.
 
-**Outros cheatsheets interessantes para uso com o R:**
+**Outros *cheat sheets* interessantes para uso com o R:**
    1. **[dplyr](dplyr_cheat_sheet.pdf)**
    2. **[data.table](data_table_cheat_sheet.pdf)**
    3. **[ggplot2](ggplot2_cheat_sheet.pdf)** 
