@@ -18,7 +18,12 @@ Este tutorial foi gerado como um projeto em R, o que significa que contém todos
 
 Clone este repositório e gere os seus Scripts R (ou **RScripts**, como são comumente chamados) para cada módulo dentro do diretório do projeto R existente. Se preferir, salve os seus RScripts na pasta do Google Drive para a disciplina, cujas permissões serão fornecidas durante as aulas. 
 
-**[R cheat sheet](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima isto e mantenha em seu espaço de trabalho enquanto aprende. Mais cheatsheets avançados podem ser encontrados à medida que você progride.
+**[R *cheat sheet*](https://github.com/bonattod/R-para-Ciencias-da-Vida/blob/main/base-r-cheat-sheet.pdf)** – Imprima este *cheat sheet* e mantenha em seu espaço de trabalho enquanto aprende. Mais *cheat sheets* avançados podem ser encontrados à medida que você progride.
+
+**Outros cheatsheets interessantes para uso com o R:**
+   1. **[dplyr](dplyr_cheat_sheet.pdf)**
+   2. **[data.table](data_table_cheat_sheet.pdf)**
+   3. **[ggplot2](ggplot2_cheat_sheet.pdf)** 
 
 Dois ótimos tutoriais de R estão indicados abaixo. Existem MUITOS disponíveis, por isso ofereço duas opções – uma que você pode baixar e usar no RStudio no seu computador ou uma baseada na web. QUALQUER UMA deve ser suficiente para você começar com o básico.
 
