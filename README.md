@@ -42,9 +42,10 @@ Dois ótimos tutoriais de R estão indicados abaixo. Existem MUITOS disponíveis
 
 Um excelente texto complementar para aprender R é o livro *R in Action* (https://www.manning.com/books/r-in-action). Leituras sugeridas poderão ser fornecidas para cada tópico.
 
-Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R. Duas opções são indicadas abaixo: 
+Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R. Algumas opções são indicadas abaixo: 
 * *YaRrr! The Pirate’s Guide to R* (https://bookdown.org/ndphillips/YaRrr/)
 * *Hands-On Programming with R* (https://rstudio-education.github.io/hopr/)
+* [*R básico - Volume I*](book-eambr01.pdf)
 
 **Objetivos de Aprendizagem**
 * Praticar a arte da reprodutibilidade utilizando scripts em R.
