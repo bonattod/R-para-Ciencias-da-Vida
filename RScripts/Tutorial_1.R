@@ -47,6 +47,9 @@ dados <- data.frame(
 print("Data Frame:")
 print(dados)
 
+# Como saber o número de linhas e de colunas do meu data frame? Comando dim()
+dim(dados)
+
 # Acessando colunas de um data frame
 print("Coluna 'Idade':")
 print(dados$Idade)
@@ -76,6 +79,12 @@ plot(
   pch = 16,  # Tipo de ponto
   col = "blue"  # Cor dos pontos
 )
+dev.off() #Comando para fechar gráficos abertos no ambiente do R
+
+# Adicionando e removendo colunas de um data frame
+dados$Peso<-c(50, 60, 70) # Cria a coluna "Peso"
+dados_reduzidos<-dados "Transpõe os dados originais para um segundo data frame"
+dados_reduzidos$Peso<-NULL "Remove a coluna "Peso""
 
 # 9. Salvando objetos no ambiente de trabalho
 save(dados, file = "dados.RData")  # Salvando o data frame em um arquivo .RData
