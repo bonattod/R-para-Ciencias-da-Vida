@@ -70,6 +70,7 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 5. **Módulo 4:** Pacotes do R para a análise de dados biológicos.
    * **Tutorial #4:** [Instalação de pacotes no ambiente R](RScripts/Tutorial_4.R)
+   * **Tutorial #4B:** [Visualizando vinhetas no R](RScripts/Tutorial_4_vinhetas.R)
    * **Exercício #4:** [Praticando a instalação de pacotes no R](Exercicios/Exercício_4_R.pdf)
 
 6. **Módulo 5:** Objetos do R.
