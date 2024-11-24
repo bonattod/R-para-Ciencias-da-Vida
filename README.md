@@ -25,7 +25,8 @@ Clone este repositório e gere os seus Scripts R (ou **RScripts**, como são com
 **Outros *cheat sheets* interessantes para uso com o R:**
    1. **[dplyr](dplyr_cheat_sheet.pdf)**
    2. **[data.table](data_table_cheat_sheet.pdf)**
-   3. **[ggplot2](ggplot2_cheat_sheet.pdf)** 
+   3. **[ggplot2](ggplot2_cheat_sheet.pdf)**
+   4. **[Parâmetros gráficos do R base](BaseGraphicsCheatsheet.pdf)**
 
 Dois ótimos tutoriais de R estão indicados abaixo. Existem MUITOS disponíveis, por isso ofereço duas opções – uma que você pode baixar e usar no RStudio no seu computador ou uma baseada na web. QUALQUER UMA deve ser suficiente para você começar com o básico.
 
