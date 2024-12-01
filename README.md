@@ -80,7 +80,9 @@ Opcional: Alternativas ao *R in Action* incluem vários livros GRATUITOS sobre R
 
 7. **Módulo 6:** Mineração e prospecção de bancos de dados biológicos.
    * **Tutorial #6:** [Mineração e prospecção de dados biológicos](RScripts/Tutorial_6.R)
+   * **Tutorial #6B:** [Análise de um transcritoma de leveduras em condições de fermentação e propagação](RScripts/Tutorial_6B.R)
    * **Exercício #6:** [Prospecção e análise de dados biológicos](Exercicios/Exercício_6_R.pdf)
+   * **Exercício #6B:** [Praticando a análise de um transcritoma de leveduras](Exercicios/Exercício_6B_R.pdf)
 
 8. **Módulo 7:** Processamento de dados biológicos – partes 1 e 2.
    * **Tutorial #7A:** [Manipulação de dataframes biológicos com comandos básicos do R](RScripts/Tutorial_7A.R)
