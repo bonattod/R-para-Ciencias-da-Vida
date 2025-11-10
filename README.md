@@ -10,7 +10,7 @@ Não há a necessidade de conhecimentos prévios em R ou qualquer outra linguage
 
 A disciplina tem como objetivo central proporcionar uma compreensão abrangente da programação em R, bem como as suas ferramentas e aplicações focadas para as Ciências da Vida. Para tanto, a disciplina busca familiarizar os discentes com a linguagem e a programação R para dados biológicos. Nesse sentido, o objetivo central da disciplina será alcançado: (I) pela compreensão dos diferentes componentes da programação em R, como operadores e funções, para análise de dados biológicos, (ii) pela escolha da forma de entrada de dados biológicos uni e multidimensionais, (iii) pelo processamento dos dados biológicos e uso de pacotes específicos para a descoberta de conhecimento biológico, (iv) pelo emprego específico de pacotes gráficos para a representação visual dos resultados gerados e (v) pelo emprego de boas práticas de programação.
 
-**[Arquivo com a súmula e cronograma da disciplina BCM13065 - R para Ciências da Vida](Conteudo_programatico_e_cronograma_BCM13065_2025.pdf)]**
+**[Arquivo com a súmula e cronograma da disciplina BCM13065 - R para Ciências da Vida(Conteudo_programatico_e_cronograma_BCM13065_2025.pdf)]**
 
 **Começando**
 
